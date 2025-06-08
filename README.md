@@ -37,6 +37,7 @@ This project is backed by a relational database design with normalized schema an
 
 ## 📁 Project Structure
 
+```
 ITI-Examination-System/
 ├── docs/
 │   └── ITI_Examination_System_Documentation.pdf
@@ -53,6 +54,7 @@ ITI-Examination-System/
 │   └── app.py
 ├── README.md
 └── LICENSE
+```
 
 ## 🛠️ Key Components
 
