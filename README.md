@@ -39,21 +39,20 @@ This project is backed by a relational database design with normalized schema an
 
 ITI-Examination-System/
 ├── docs/
-│ └── ITI_Examination_System_Documentation.pdf
+│   └── ITI_Examination_System_Documentation.pdf
 ├── Schema_photos/
-│ ├── ER Diagram.png
-│ ├── ER Tables.png
+│   ├── ER Diagram.png
+│   ├── ER Tables.png
 ├── sql/
-│ ├── dummy_data.sql
-│ ├── schema.sql
-│ ├── stored_procedures.sql
-│ ├── triggers.sql
-│ ├── views.sql
+│   ├── dummy_data.sql
+│   ├── schema.sql
+│   ├── stored_procedures.sql
+│   ├── triggers.sql
+│   ├── views.sql
 ├── api/ (Future Flask or Django implementation)
-│ └── app.py
+│   └── app.py
 ├── README.md
 └── LICENSE
----
 
 ## 🛠️ Key Components
 
